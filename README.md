@@ -1,5 +1,3 @@
-# pplweek1
-untuk penugasan ppl week 1
 echo "# pplweek1" >> README.md
 git init
 git add README.md
